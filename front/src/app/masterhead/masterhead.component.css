@@ -1,0 +1,12 @@
+   .masterhead{ 
+    -webkit-text-size-adjust: 100%;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-tap-highlight-color: rgba(27,152,224,0.2);
+    text-align: left;
+    box-sizing: border-box;
+    line-height: normal;
+    margin: 0 auto;
+    font-size: 24px;
+    font-weight: normal;
+    color: #ffffff;
+   }
